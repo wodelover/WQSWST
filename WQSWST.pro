@@ -2,5 +2,5 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
     src \
-#    RunStatus \
-#    HistoryData
+    RunStatus \
+    HistoryData

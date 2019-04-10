@@ -1,0 +1,12 @@
+#ifndef RUNSTATUS_GLOBAL_H
+#define RUNSTATUS_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(RUNSTATUS_LIBRARY)
+#  define RUNSTATUSSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define RUNSTATUSSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // RUNSTATUS_GLOBAL_H
