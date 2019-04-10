@@ -1,0 +1,19 @@
+QPushButton {
+    background-color: #32CD32;
+    border: none;
+    color: white;
+    text-align: right;
+/*    text-decoration: none;
+    display: inline-block;*/
+    font-size: 20px;
+    outline: none;
+}
+QPushButton:pressed {
+    padding-left: 4px;
+    padding-top: 4px;
+    color: white;
+    background-color: #4CAF50;
+}
+QLabel{
+    color: white;
+}

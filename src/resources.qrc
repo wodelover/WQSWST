@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/icomoon.ttf</file>
+        <file>qss/PushButton.qss</file>
+        <file>images/jz.png</file>
+        <file>images/lssj.png</file>
+        <file>images/sbpz.png</file>
+        <file>images/sbxx.png</file>
+        <file>images/sdzt.png</file>
+        <file>images/zd.png</file>
+        <file>images/zxt2.png</file>
+        <file>images/zxt3.png</file>
+        <file>images/jl.png</file>
+        <file>images/device-logo-o.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
